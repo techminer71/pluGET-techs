@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<h1>THIS IS NOT MY PLUGIN NOR DID I MAKE IT I am going to try to update it though</h1>
+  <h1>THIS IS NOT MY PLUGIN NOR DID I MAKE IT I am going to try to update it though</h1>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/branding/pluget-logo-white.png">
   <source media="(prefers-color-scheme: light)" srcset="./assets/branding/pluget-logo-black.png">
