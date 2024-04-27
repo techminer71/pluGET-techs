@@ -1,6 +1,7 @@
 
 
 <p align="center">
+THIS IS NOT MY PLUGIN NOR DID I MAKE IT I am going to try to update it though
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/branding/pluget-logo-white.png">
   <source media="(prefers-color-scheme: light)" srcset="./assets/branding/pluget-logo-black.png">
